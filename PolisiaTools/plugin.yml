@@ -1,0 +1,11 @@
+name: PolisiaTools
+version: 1.0
+author: Ecorte
+main: ca.ecorte.polisiatools.polisiatools
+commands:
+  test:
+    description: Commande de test
+    permission: polisiatools.test
+  alert
+    description: Faire une alerte
+    permission: polisiatools.alert
